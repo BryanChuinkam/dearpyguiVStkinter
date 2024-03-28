@@ -1,7 +1,7 @@
 import dearpygui.dearpygui as dpg
 from resources.horoscopeUtility import get_horoscope, get_top_three
 
-scale_factor = 1
+scale_factor = 2
 
 
 def print_me():
